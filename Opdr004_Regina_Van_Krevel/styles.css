@@ -1,0 +1,27 @@
+body {
+  color: hsl(157, 9%, 38%);
+  font-family: trebuchet, Arial, Helvetica, sans-serif;
+  background-color: #9be4c0;
+}
+.black-border {
+  border: 1px solid black;
+}
+#green-background {
+  background-color: #65c0a0;
+}
+.underline {
+  text-decoration: 1px underline black;
+}
+h1,
+h2,
+h3 {
+  color: black;
+}
+h1 {
+  font-size: 36px;
+  text-decoration: 1px underline black;
+  font-style: italic;
+}
+.italic {
+  font-style: italic;
+}
